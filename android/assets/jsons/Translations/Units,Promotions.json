@@ -12,24 +12,28 @@
 		Spanish:"Civil"
 		Simplified_Chinese:"平民单位"
 		Portuguese:"Cidadão"
+		Turkish:"Sivil"
 	}
 
 	"land units":{
 		Italian:"unità terrestri"
 		Simplified_Chinese:"陆军单位"
 		Russian:"наземные юниты"
+	        Turkish:"arazi birimleri"
 	}
 
 	"water units":{
 		Italian:"unità anfibie"
 		Simplified_Chinese:"海军单位"
 		Russian:"морские юниты"
+		Turkish:"deniz birimleri"
 	}
 
 	"air units":{
 		Italian:"unità aeree"
 		Simplified_Chinese:"空军单位"
 		Russian:"воздушные юниты"
+		Turkish:"hava birimleri"
 	}
 
 	"WaterCivilian":{ // In the file "Uints.json", every unit have the "unitType", i think we should show the "unitType" in wiki,because some units get a bonus attack to other units.
@@ -86,6 +90,7 @@
 		Simplified_Chinese:"海军潜艇单位"
 		French:"Navires sous-marins"
 		Russian:"Субмарина"
+		Turkish:"Denizaltı"
 	}
 
 	"Siege":{
@@ -98,6 +103,7 @@
 		Spanish:"Asedio"
 		Simplified_Chinese:"攻城单位"
 		Portuguese:"Cerco"
+		Turkish:"Kuşatma"
 	}
 
 	"Mounted":{
@@ -122,6 +128,7 @@
 		Spanish:"Explorador"
 		Simplified_Chinese:"侦察单位"
 		Portuguese:"Explorador"
+		Turkish:"İzci"
 	}
 
 	"Armor":{
@@ -129,6 +136,7 @@
 		Simplified_Chinese:"装甲单位"
 		French:"Blindé"
 		Russian:"Бронемашина"
+		Turkish:"Zırh"
 	}
 
 	"City":{
@@ -141,6 +149,7 @@
 		Spanish:"Ciudad"
 		Simplified_Chinese:"城市"
 		Portuguese:"Cidade"
+		Turkish:"Şehir"
 	}
 
 	// - - - - NOTE: Unit uniques are to be put next to the first unit that has this unique! - - - 
@@ -159,6 +168,7 @@
 		Spanish:"Funda una nueva ciudad"
 		Simplified_Chinese:"建立一座城市，组建此单位时城市的食物积累停止"
 		Portuguese:"Funda uma nova cidade"
+		Turkish:"Yeni bir şehir kurma"
 	}
 
 	"Worker":{	
@@ -170,6 +180,7 @@
 		Simplified_Chinese:"工人"
 		Portuguese:"Assalariado" // may change to trabalhador (assalariado means wage earner wich in portuguese has the same meaning of worker it is just another way to put it
 		German:"Arbeiter"
+		Turkish:"İşçi"
 	}
 	
 	
@@ -194,6 +205,7 @@
 		Simplified_Chinese:"斥候"
 		Portuguese:"Explorador"
 		German:"Kundschafter"
+		Turkish:"İzci"
 	}
 	
 	
@@ -226,6 +238,7 @@
 		Simplified_Chinese:"勇士"
 		Portuguese:"Guerreiro"
 		German:"Krieger"
+		Turkish:"Savaşçı"
 	}
 
 
@@ -242,6 +255,7 @@
 		Simplified_Chinese:"弓箭手"
 		Portuguese:"Arqueiro"
 		German:"Bogenschütze"
+		Turkish:"Okçu"
 	}
 
 	"Bowman":{
@@ -250,6 +264,7 @@
 		Russian:"Меткий лучник"
 		French:"Archer Babylonien"
 		Romanian:"Arcaș"
+		Turkish:"Okçu"
 		//IS THIS SAME AS ARCHER IN OTHER LANGUAGES=?? 
 		//In official Russian localization it's accurate archer :)
 		//Spanish:Yep, exacly the same problem whit musketman and musketer
@@ -268,6 +283,7 @@
 		Simplified_Chinese:"工船"
 		Portuguese:"Barcos de trabalho"
 		German:"Arbeitsboote"
+		Turkish:"İş Teknesi"
 	}
 
 	"Cannot enter ocean tiles until Astronomy":{
@@ -279,6 +295,7 @@
 		Portuguese:"Não pode entrar o terreno 'oceano' até a pesquisa Astronomia" // if you want you can take away the 'a pesquisa'
 		German:"Ozeanfelder können nicht befahren werden bis Astronomie erforscht ist"
 		Russian:"Для выхода в океан нужно открыть Астрономию"
+		Turkish:"Astronomiye kadar okyanus alanına girilemez"
 	}
 
 	"May create improvements on water resources":{
@@ -318,6 +335,7 @@
 		Portuguese:"Não pode entrar o terreno 'oceano' "
 		German:"Ozeanfelder können nicht befahren werden"
 		Russian:"Не может выйти в океан"
+		Turkish:"Okyanus alanına girilemiyor"
 	}
 
 	"Chariot Archer":{	
@@ -341,6 +359,7 @@
 		Spanish:"Sin bonus de defensa de terreno"
 		Simplified_Chinese:"无地形防御力加成"
 		Portuguese:"Nenhum bonus de defesa do terreno"
+		Turkish:"Arazi savunma bonusu yok"
 	}
 
 	"Rough terrain penalty":{
@@ -364,6 +383,7 @@
 		Simplified_Chinese:"埃及战车"
 		German:"Streitwagen"
 		French:"Char de guerre"
+		Turkish:"Savaş Arabası"
 	} 
 	
 	"Spearman":{	
@@ -375,6 +395,7 @@
 		Simplified_Chinese:"枪兵"
 		Portuguese:"Lanceiro"
 		German:"Speerkrieger"
+		Turkish:"Mızrakçı"
 	}
 
 	"Hoplite":{ // Greek unique
@@ -390,11 +411,13 @@
 	"Immortal":{ // Persian unique
 		Italian:"Immortale"
 		Simplified_Chinese:"波斯长生军"
+		Turkish:"Ölümsüz"
 	}
 	
 	"+10 HP when healing":{
 		Italian:"+10 PF quando si cura"
 		Simplified_Chinese:"生命回复时额外回复10生命值"
+		Turkisch:"İyileştiğinde 10 SP"
 	}
 	
 ////// Classical Era Units
@@ -407,6 +430,7 @@
 		German:"Kompositbogenschütze"
 		French:"Archer composite"
 		Russian:"Лучник (составной лук)"
+		Turkish:"Komposit Okçu"
 	}
 
 	"Catapult":{	
@@ -418,6 +442,7 @@
 		Simplified_Chinese:"石弩"
 		Portuguese:"Catapulta"
 		German:"Katapult"
+		Turkish:"Mancınık"
 	}	
 
 	"Must set up to ranged attack":{
@@ -441,6 +466,7 @@
 		Portuguese:"Balista"
 		German:"Balliste"
 		Russian:"Баллиста"
+		Turkish:"Mancınık"
 	}
 
 	"Swordsman":{	
@@ -452,6 +478,7 @@
 		Simplified_Chinese:"剑士"
 		Portuguese:"Espadachin" // may replace with guerreiro com espada if nescessary
 		German:"Schwertkämpfer"
+		Turkish:"Silahşör"
 	}
 	
 	"Mohawk Warrior":{
@@ -462,6 +489,7 @@
 	"+33% combat bonus in Forest/Jungle":{
 		Italian:"+33% Forza su Foreste o Giungle"
 		Simplified_Chinese:"位于森林/丛林时战斗力+33%"
+		Turkish:"Ormanda +33 mücadele bonusu"
 	}
 	
 	"Legion":{
@@ -472,6 +500,7 @@
 		German:"Legionär"
 		French:"Légion"
 		Russian:"Легионер"
+		Turkish:"Lejyon"
 	}
 
 	"Can construct roads":{
@@ -486,6 +515,7 @@
 		Simplified_Chinese:"建造道路"
 		French:"Construire une route"
 		Russian:"Построить дорогу"
+		Turkish:"Yol inşa etmek"
 	} 
 	
 	"Horseman":{	
@@ -497,6 +527,7 @@
 		Simplified_Chinese:"骑手"
 		Portuguese:"Cavaleiro" //can be replaced by guerreiro montado if nescessary
 		German:"Reiter"
+		Turkish:"Atlı"
 	}
 
 	"Can move after attacking":{
@@ -509,6 +540,7 @@
 		Spanish:"Puede mover después de atacar"
 		Simplified_Chinese:"攻击后可移动"
 		Portuguese:"Pode se mover após atacar"
+		Turkish:"Saldırıdan sonra hareket edebilir"
 	}
 
 	"Companion Cavalry":{	
@@ -527,6 +559,7 @@
 		French:"Éléphant de Guerre"
 		Russian:"Боевой слон"
 		Simplified_Chinese:"印度战象"
+		Turkish:"Savaş Fili"
 	}
 	
 ////// Medieval units
@@ -580,6 +613,7 @@
 		French:"Logistique"
 		Russian:"Логистика"
 		Simplified_Chinese:"后勤补给"
+		Turkish:"Lojistik"
 	}
 
 	"1 additional attack per turn":{
@@ -616,6 +650,7 @@
 		Spanish:"Visibilidad limitada"
 		Simplified_Chinese:"视野受限"
 		Portuguese:"Visibilidade limitada"
+		Turkish:"Sınırlı görünürlük"
 	}
 
 	"Longswordsman":{
@@ -638,6 +673,7 @@
 		Simplified_Chinese:"长枪兵"
 		Portuguese:"Piqueiro"
 		German:"Pikenier"
+		Turkish:"Mızrakçı asker"
 	}
 
 	"Landsknecht":{
@@ -656,6 +692,7 @@
 		Simplified_Chinese:"骑士"
 		Portuguese:"Cavaleiro"
 		German:"Ritter"
+		Turkish:"Şövalye"
 	}
 
 	"Camel Archer":{
@@ -673,6 +710,7 @@
 		Simplified_Chinese:"日本武士"
 		French:"Samuraï"
 		Russian:"Самурай"
+		Turkish:"Samuray"
 	}
 
 	"Combat very likely to create Great Generals":{
@@ -722,6 +760,7 @@
 		Simplified_Chinese:"加农炮"
 		Portuguese:"Canhão"
 		German:"Kanone"
+		Turkish:"Havan"
 	}
 
 	"Musketman":{	
@@ -733,6 +772,7 @@
 		Portuguese:"Soldado com mosquete"
 		Russian:"Стрельцы"
 		German:"Musketschütze"
+		Turkish:"Silahşör"
 	}
 
 	"Musketeer":{ //french unique
@@ -744,6 +784,7 @@
 		Portuguese:"Mosqueteiro"
 		Russian:"Мушкетёр"
 		German:"Musketier"
+		Turkish:"Silahşör"
 	} 
 	
 	"Janissary":{ // Ottoman unique
@@ -751,6 +792,7 @@
 		French:"Janissaire"
 		Russian:"Янычары"
 		Simplified_Chinese:"苏丹亲兵"
+		Turkish:"Yeniçeri"
 	}
 	
 	"Heals [amountHealed] damage if it kills a unit":{
@@ -807,6 +849,7 @@
 		Russian:"Сипаи"
 		//same in french
 		Simplified_Chinese:"西帕希骑兵"
+		Turkish:"Sipahi"
 	}
 	
 	"No movement cost to pillage":{
@@ -849,6 +892,7 @@
 		Simplified_Chinese:"近代骑兵"
 		Portuguese:"Cavalaria"
 		German:"Kavallerie"
+		Turkish:"Süvari"
 	}
 	
 	"Cossack":{
@@ -870,6 +914,7 @@
 		Simplified_Chinese:"火炮"
 		Portuguese:"Artilharia"
 		German:"Artillerie"
+		Turkish:"Topçu"
 	}
 
 	"Indirect Fire":{
@@ -901,6 +946,7 @@
 		Portuguese:"Movimento em dobro nas costas"
 		German:"Doppelte Bewegungsgeschwindigkeit an der Küste"
 		Russian:"Двойное движение на побережье"
+		Turkisch:"Kıyıda çift hareket"
 	}
 
 ////// Modern units
@@ -923,6 +969,7 @@
 		Russian:"Стрелок"
 		German:"Weltkriegs Infanterie"
 		French:"Infanterie de la grande guerre"
+		Turkish:"Büyük Savaş Piyadesi"
 	}
 
     	"Foreign Legion":{ // French Unique
@@ -933,6 +980,7 @@
 		Russian:"Иностранный легион"
 		German:"Fremdenlegion"
 		French:"Légion étrangère"
+		Turkish:"Yabancı Lejyon"
 	}
 	
     /*
@@ -948,6 +996,7 @@
 		Simplified_Chinese:"境外作战时战斗力+20%"
 		French:"+20% bonus lors de combat hors d'un territoire allié" 
 		Russian:"+20 бонус вне дружественной территории"
+		Turskish:"Dost bölge dışında +20 bonus"
 	}
 
 	"Foreign Land":{ // for battle table combat percentage
@@ -955,6 +1004,7 @@
 		Simplified_Chinese:"境外"
 		French:"Terre étrangère"
 		Russian:"Чужая земля"
+		Turkish:"Yabancı arazi"
 	}
 	
 	"Destroyer":{
@@ -965,6 +1015,7 @@
 		Russian:"Миноносец"
 		German:"Zerstörer"
 		French:"Destroyer"
+		Turkish:"Yokedici"
 	}
 
 	"Can attack submarines":{
@@ -972,6 +1023,7 @@
 		Simplified_Chinese:"能够发现和攻击潜艇单位"
 		French:"Peut attaquer les sous-marins"
 		Russian:"Может атаковать подлодки"
+		Turkish:"Denizaltılar saldırabilir"
 	}
 
 	"Machine Gun":{
@@ -1002,6 +1054,7 @@
 		Russian:"Пехота"
 		German:"Infanterie"
 		French:"Infanterie"
+		Turkisch:"Piyade"
 	}
 
 	"Battleship":{
@@ -1012,6 +1065,7 @@
 		Russian:"Линкор"
 		German:"Schlachtschiff"
 		French:"cuirassé"
+		Turkish:"Savaş gemisi"
 	}
 
 
@@ -1023,6 +1077,7 @@
 		Russian:"Подводная лодка"
 		German:"U-Boot"
 		French:"Sous-marin"
+		Turkish:"Denizaltı"
 	}
 
 	"Bonus as Attacker [amount]%":{
@@ -1044,6 +1099,7 @@
 		Simplified_Chinese:"只能攻击海上目标"
 		French:"Ne peut attaquer que les unités marines"
 		Russian:"Может атаковать только морские юниты"
+		Turkish:"Sadece suda saldırabilir"
 	}
 
 	"Carrier":{ // aircrat carrier
@@ -1119,6 +1175,7 @@
 		Spanish:"Marine"
 		Simplified_Chinese:"海军陆战队"
 		Russian:"Морской пехотинец"
+		Turkisch:"Denizci"
 		German:"Marine" //not sure if this is correct here
 		French:"Fusillier marin"
 	}
@@ -1141,6 +1198,7 @@
 		Russian:"Парашютист"
 		German:"Fallschirmjäger"
 		French:"Parachutiste"
+		Turkish:"Paraşütçü"
 	}
 
 	"Tank":{
@@ -1151,6 +1209,7 @@
 		Russian:"Танк"
 		German:"Panzer"
 		French:"Char"
+		Turkish:"Tank"
 	}
 
 	"Panzer":{ // german unique
@@ -1170,6 +1229,7 @@
 		Simplified_Chinese:"轰炸机"
 		Russian:"Тяжелый бомбардировщик"
 		French:"Bombardier"
+		Turkish:"Bombardıman uçağı"
 	}
 
     	"Mechanized Infantry":{
@@ -1177,6 +1237,7 @@
 		Simplified_Chinese:"机械化步兵"
 		French:"Infantrie mécanisée"
 		Russian:"Мотопехота"
+		Turkish:"Mekanize piyade"
 	}
 
     	"Modern Armor":{
@@ -1203,6 +1264,7 @@
 		German:"Jäger"
 		French:"Chasseur"
 		Russian:"Истребитель"
+		Turkish:"Savaş uçağı"
 	}
 
 	"Zero":{//Japanese unique
@@ -1317,6 +1379,7 @@
 		Portuguese:"Pode descobrir uma tecnologia"
 		German:"Kann eine Technologie entdecken"
 		Russian:"Может открыть технологию"
+		Turkish:"Teknoloji keşfedilebilir"
 	}
 
 	"Can build improvement: Academy":{
