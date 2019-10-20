@@ -13,6 +13,7 @@
 		Simplified_Chinese:"草原"
 		Portuguese:"pastagem"
                 Korean:"초원"
+                Turkish:"Otlak"
 	}
  
 	"Plains":{
@@ -26,6 +27,7 @@
 		Simplified_Chinese:"平原"
 		Portuguese:"Planíce"
                 Korean:"평원"
+                Turkish:"Düzlük"
 	}
  
 	"Tundra":{
@@ -39,6 +41,7 @@
 		Simplified_Chinese:"冻土"
 		Portuguese:"Tundra"
                 Korean:"툰드라"
+                Turkish:"Tundra"
 	}
  
 	"Desert":{
@@ -52,6 +55,7 @@
 		Simplified_Chinese:"沙漠"
 		Portuguese:"Deserto"
                 Korean:"사막"
+                Turkish:"Çöl"
 	}
  
 	"Lakes":{
@@ -65,6 +69,7 @@
 		Simplified_Chinese:"湖泊"
 		Portuguese:"Lagos"
                 Korean:"호수"
+                Turkish:"Göl"
 	}
  
 	"Hill":{
@@ -78,6 +83,7 @@
 		Simplified_Chinese:"丘陵"
 		Portuguese:"Morro"
                 Korean:"언덕"
+                Turkish:"Tepelik"
 	}
 	
 	"Mountain":{
@@ -90,6 +96,7 @@
 		Russian:"Горы"
 		Portuguese:"Montanha"
                 Korean:"산"
+                Turkish:"Dağ"
 	}
  
 	"Forest":{
@@ -103,6 +110,7 @@
 		Simplified_Chinese:"森林"
 		Portuguese:"Floresta"
                 Korean:"숲"
+                Turkish:"Orman"
 	}
  
 	"Jungle":{
@@ -116,6 +124,7 @@
 		Simplified_Chinese:"丛林"
 		Portuguese:"Selva"
                 Korean:"정글"
+                Turkish:"Orman"
 	}
  
 	"Marsh":{
@@ -154,6 +163,7 @@
 		Simplified_Chinese:"雪原"
 		Portuguese:"Neve"
                 Korean:"눈"
+                Turkish:"Kar"
 	}
  
 	"Coast":{
@@ -167,6 +177,7 @@
 		Simplified_Chinese:"海滨"
 		Portuguese:"Costa"
                 Korean:"연안"
+                Turkish:"Kıyı"
 	}
  
 	"Ocean":{
@@ -180,6 +191,7 @@
 		Simplified_Chinese:"海洋"
 		Portuguese:"Oceano"
                 Korean:"대양"
+                Turkish:"Okyanus"
 	}
  
 	"Flood plains":{
@@ -233,6 +245,7 @@
 		Simplified_Chinese:"绵羊"
 		Portuguese:"Ovelhas"
                 Korean:"양"
+                Turkish:"Koyun:
 	}
  
 	"Deer":{
@@ -259,6 +272,7 @@
 		Simplified_Chinese:"香蕉"
 		Portuguese:"Bananas"
                 Korean:"바나나"
+                Turkish:"Muzlar"
 	}
  
 	"Wheat":{
@@ -285,6 +299,7 @@
 		Simplified_Chinese:"花岗石"
 		Portuguese:"Pedra"
                 Korean:"돌"
+                Turkish:"Taş"
 	}
 	
 	"Fish":{
@@ -298,6 +313,7 @@
 		German:"Fisch"
 		Russian:"Рыба"
                 Korean:"물고기"
+                Turkish:"Balık"
 	}
  
 	"Bison":{
@@ -312,6 +328,7 @@
 		Portuguese:"Bisontes"
 		Japanese:"バイソン"
                 Korean:"들소"
+                Turkish:"Bizon"
 	}
 	
 ////////// Strategic Resources
@@ -327,6 +344,7 @@
 		Simplified_Chinese:"马"
 		Portuguese:"Cavalos"
                 Korean:"말"
+                Turkish:"Atlar"
 	}
  
 	"Iron":{
@@ -340,6 +358,7 @@
 		Simplified_Chinese:"铁"
 		Portuguese:"Ferro"
                 Korean:"철"
+                Turkish:"Demir"
 	}
  
 	"Coal":{
@@ -353,6 +372,7 @@
 		Simplified_Chinese:"煤"
 		Portuguese:"Carvão"
                 Korean:"석탄"
+                Turkish:"Kömür"
 	}
  
 	"Oil":{
@@ -366,6 +386,7 @@
 		Simplified_Chinese:"石油"
 		Portuguese:"Petróleo"
                 Korean:"기름"
+                Turkish:"Petrol"
 	}
  
 	"Aluminum":{
@@ -379,6 +400,7 @@
 		Simplified_Chinese:"铝"
 		Portuguese:"Alumínio"
                 Korean:"알루미늄"
+                Turkish:"Alüminyum"
 	}
  
 	"Uranium":{
@@ -392,6 +414,7 @@
 		Simplified_Chinese:"铀"
 		Portuguese:"Urânio"
                 Korean:"우라늄"
+                Turkish:"Uranyum"
 	}
 	
 ///////// Luxury Resources
@@ -420,6 +443,7 @@
 		Simplified_Chinese:"棉花"
 		Portuguese:"Algodão"
                 Korean:"면"
+                Turkish:"Pamuk"
 	}
  
 	"Dyes":{ // Seems to have translated in all languages as *food dyes* Needs to be rechecked in all languages except french and portuguese
@@ -446,6 +470,7 @@
 		Simplified_Chinese:"宝石"
    		Portuguese:"Joias"
                 Korean:"보석"
+                Turkish:"Mücevher"
 	}
  
 	"Silver":{
@@ -459,6 +484,7 @@
 		Simplified_Chinese:"银"
 		Portuguese:"Prata"
                 Korean:"은"
+                Turkish:"Gümüş"
 	}
  
 	"Incense":{
@@ -506,6 +532,7 @@
 		Simplified_Chinese:"香料"
 		Portuguese:"Especiarias"
                 Korean:"향신료"
+                Turkish:"Baharatlar"
 	}
  
 	"Wine":{
@@ -532,6 +559,7 @@
 		Simplified_Chinese:"蔗糖"
 		Portuguese:"Açucar"
                 Korean:"설탕"
+                Turkish:"Şeker"
 	}
  
 	"Marble":{
@@ -597,6 +625,7 @@
 		Simplified_Chinese:"可可"
 		Portuguese:"Cacau"
                 Korean:"코코아"
+                Turkish:"Kakao"
 	}
  
 	"Crab":{
@@ -677,6 +706,7 @@
 		Simplified_Chinese:"矿井"
 		Portuguese:"Mina"
                 Korean:"광산"
+                Turkish:"Maden"
 	}
  
 	"Trading post":{
@@ -703,6 +733,7 @@
 		Simplified_Chinese:"猎场"
 		Portuguese:"Campo"
                 Korean:"캠프"
+                Turkish:"Kamp"
 	}
 	"Oil well":{
 		Italian:"Pozzo di petrolio"
@@ -763,6 +794,7 @@
 		German:"Fischerboote"
 		Russian:"Рыбацкие лодки"
                 Korean:"낚싯배"
+                Turkish:"Balıkçı teknesi"
 	}
 	
 	"Road":{
@@ -776,6 +808,7 @@
 		Simplified_Chinese:"道路"
 		Portuguese:"Estrada"
                 Korean:"도로"
+                Turkish:"Yol"
 	}
  
 	"Remove Road":{
@@ -784,6 +817,7 @@
 		French:"Retirer la route"
 		Russian:"Убрать дорогу"
                 Korean:"도로 제거"
+                Turkish:"Yolu kaldırmak"
 	}
  
 	"Railroad":{
@@ -817,6 +851,7 @@
 		Portuguese:"Cortar floresta"
 		German:"Wald abholzen"
                 Korean:"숲 제거"
+                Turkish:"Ormanı kaldırmak"
 	}
  
 	"Remove Jungle":{
@@ -829,6 +864,7 @@
 		Portuguese:"Cortar selva"
 		German:"Dschungel abholzen"
                 Korean:"정글 제거"
+                Turkish:"Ormanı kaldırmak"
 	}
  
 	"Remove Marsh":{
@@ -882,6 +918,7 @@
 		Simplified_Chinese:"学院"
 		Portuguese:"Academia"
                 Korean:"학원"
+                Turkish:"Akademi"
 	}
  
 	"Landmark":{
